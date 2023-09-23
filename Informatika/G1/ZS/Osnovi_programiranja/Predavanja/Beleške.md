@@ -3,3 +3,5 @@
 ## Predavanje 1
 
 Lorem ipsum...
+
+![Beleske PDF](./TOI.pdf)
